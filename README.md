@@ -14,3 +14,7 @@
 3. and run pytube_download.py
 
 -> Support only 720p resolution
+
+# chrome driver download
+
+https://sites.google.com/a/chromium.org/chromedriver/downloads

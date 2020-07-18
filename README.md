@@ -4,7 +4,7 @@
 
 ## Requirement
 
-* pytube
+* pytube3
 * BeautifulSoup
 * pandas
 * tqdm

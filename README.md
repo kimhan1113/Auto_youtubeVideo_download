@@ -8,6 +8,7 @@
 * BeautifulSoup
 * pandas
 * tqdm
+* selenium
 
 ## How to use it
 

@@ -1,6 +1,6 @@
 ## Auto_youtubeVideo_downloader (오토 유튜브 동영상 다운로더)
 
-![result.png](/result.PNG =250x)
+<img src="result.PNG" width="40%" align="center">
 
 ## Requirement
 

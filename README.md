@@ -16,7 +16,7 @@
 2. write your save video path at down_path in pytube_download.py
 3. and run pytube_download.py
 
--> Support only 720p resolution
+-> It support only 720p resolution
 
 ## chrome driver download
 

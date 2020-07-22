@@ -23,6 +23,6 @@
 
 https://sites.google.com/a/chromium.org/chromedriver/downloads
 
-## Recommend
+## Check it before use it
 
 If you use it several times, you might be get IP ban from Youtube..

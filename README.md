@@ -25,4 +25,4 @@ https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 ## Check it before use it
 
-If you use it several times, you might be get IP ban from Youtube..
+If you are not adding time.sleep code, you might be get IP ban from Youtube..
